@@ -1,23 +1,23 @@
 {
-  "name": "logger",
+  "name": "bot",
   "private": true,
-  "version": "2.5.0",
+  "version": "1.0",
   "description": "A simple Discord bot for logging different events in your Discord server.",
   "scripts": {
-    "start": "babel-node Logger.js",
+    "start": "babel-node index.js",
     "test": "standard && eslint **",
     "build": "rm -rf dist && babel . --ignore doc,rethinkdb_data,node_modules,dump.rdb,README.md --out-dir dist --copy-files"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LWTechGaming/Logger.git"
+    "url": "git+https://github.com"
   },
   "author": "DevLodge",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/LWTechGaming/Logger/issues"
+    "url": "https://github.com"
   },
-  "homepage": "https://github.com/LWTechGaming/Logger#readme",
+  "homepage": "https://github.com",
   "dependencies": {
     "assert": "^1.4.1",
     "bluebird": "^3.5.0",
