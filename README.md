@@ -1,1 +1,0 @@
-This exists solely for reference, support for selfhosting will not be provided.
