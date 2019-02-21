@@ -10,7 +10,7 @@
         "port": "28015"
     },
     "permissions": {
-        "eval": ["212445217763229699", "152664793587777537"]
+        "eval": ["", ""]
     },
     "stats": {
         "dbots": {
@@ -25,10 +25,10 @@
         "password": ""
     },
     "misc": {
-        "defaultGame": "LoggerV2 | %setchannel | https://whatezlife.com/dashboard/"
+        "defaultGame": "default test"
     },
     "commands": {
-        "eval": ["212445217763229699"]
+        "eval": [""]
     },
     "dev": {
         "usedash": false
